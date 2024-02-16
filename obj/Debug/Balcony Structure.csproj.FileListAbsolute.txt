@@ -1,0 +1,10 @@
+E:\peroject C#\Balcony Structure\bin\Debug\Balcony Structure.exe.config
+E:\peroject C#\Balcony Structure\bin\Debug\Balcony Structure.exe
+E:\peroject C#\Balcony Structure\bin\Debug\Balcony Structure.pdb
+E:\peroject C#\Balcony Structure\obj\Debug\Balcony Structure.csproj.AssemblyReference.cache
+E:\peroject C#\Balcony Structure\obj\Debug\Balcony_Structure.Form1.resources
+E:\peroject C#\Balcony Structure\obj\Debug\Balcony_Structure.Properties.Resources.resources
+E:\peroject C#\Balcony Structure\obj\Debug\Balcony Structure.csproj.GenerateResource.cache
+E:\peroject C#\Balcony Structure\obj\Debug\Balcony Structure.csproj.CoreCompileInputs.cache
+E:\peroject C#\Balcony Structure\obj\Debug\Balcony Structure.exe
+E:\peroject C#\Balcony Structure\obj\Debug\Balcony Structure.pdb
