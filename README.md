@@ -1,7 +1,7 @@
+#balcony structure
+
+
 **Developing of balcony structure load Calculation Software using C# for Windows Platform**
-
-
-
 
 
 Computing technologies have empowered engineers to design and analyze complex structures with precision. adhering to standards like ASCE 7 is crucial to ensure safety and efficiency. In this article, we delve into developing software with C# for Windows that aids in calculating and analyzing the loading capacities of structures, focusing on balcony dimensions and weight calculations as per ASCE 7 standards.
