@@ -44,3 +44,6 @@ Incorporating error handling mechanisms is essential to address unforeseen scena
 Visualizing the structural data using graphical representations enhances the interpretability of results, aiding engineers in making informed decisions. Implementing features for generating comprehensive reports with detailed analysis further enhances the utility of the software for professionals in the industry.
 
 In conclusion, developing software with C# for Windows platform that facilitates calculations according to ASCE 7 standards empowers engineers and designers in ensuring the safety and efficiency of structural components. By leveraging the robust capabilities of C# and adhering to best practices in software development, engineers can streamline the design process and enhance the reliability of their analyses.
+
+Video link on YouTube:
+https://youtu.be/Vh2YvY-2uck?feature=shared
