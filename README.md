@@ -3,6 +3,8 @@
 
 **Developing of balcony structure load Calculation Software using C# for Windows Platform**
 
+In my last semester of university, I was introduced as an intern to a construction company for my internship course. Considering my talent and experience in programming, the company asked me to develop a computational program as a research work related to structural loading. After researching the method of calculating static and variable loading according to an international standard, I created a computational program using C# language for the desktop platform. 
+
 
 Computing technologies have empowered engineers to design and analyze complex structures with precision. adhering to standards like ASCE 7 is crucial to ensure safety and efficiency. In this article, we delve into developing software with C# for Windows that aids in calculating and analyzing the loading capacities of structures, focusing on balcony dimensions and weight calculations as per ASCE 7 standards.
 
